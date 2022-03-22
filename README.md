@@ -1,1 +1,2 @@
 # DeepLearning_tutorial
+https://www.notion.so/Machine-Learning-efb28ba78fcb49c2a03a062c814e8881#f5b71e04a2864c978efb4aa873067e09
